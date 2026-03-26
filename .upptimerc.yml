@@ -16,7 +16,7 @@ status-website:
   introTitle: "AI formats your Threads into clean, fast webpages. No code, just chat."
   introMessage: Live status updates for all our services can be found here.
   navbar:
-    - title: Status
+    - title: Home
       href: https://threadhost.qzz.io
     - title: Status
       href: /
