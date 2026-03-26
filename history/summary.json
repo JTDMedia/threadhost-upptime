@@ -4,17 +4,17 @@
     "url": "https://threadhost.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/threadhost.qzz.io.ico",
     "slug": "webservices-and-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1929,
-    "timeDay": 1929,
-    "timeWeek": 1929,
-    "timeMonth": 1929,
-    "timeYear": 1929,
+    "time": 2613,
+    "timeDay": 2613,
+    "timeWeek": 2613,
+    "timeMonth": 2613,
+    "timeYear": 2613,
     "dailyMinutesDown": {}
   }
 ]
